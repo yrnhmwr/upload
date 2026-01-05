@@ -1,0 +1,33 @@
+{
+  "title": "악인찬가 (Hymn to the Wicked)",
+  "description": "When my vision blurred after days of unrelenting hunger, a shadow spoke to me. That night, I made a contract with the shadow. By consuming people's sins, I gained a life where I would never go hungry again. Since gaining this power, I can no longer taste ordinary food, and my criminal record has grown a bit (a lot?)... but you know what? Sin tastes even better.",
+  "artist": "쏘시지",
+  "author": "찌성인",
+  "cover": "https://i.imgur.com/RvtR3cL.png",
+  "chapters": {
+    "0": {
+      "title": "Prologue",
+      "volume": "",
+      "last_updated": "1767656017",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/f8927621-c522-4d18-8379-3915c1819ef8"
+      }
+    },
+    "1": {
+      "title": "Best Friend",
+      "volume": "",
+      "last_updated": "1767656029",
+      "groups": {
+        "": "https://mangadex.org/chapter/cb59f68b-e282-4ac8-ad0b-a1704b4477e8/1"
+      }
+    },
+    "2": {
+      "title": "Ju and Mir",
+      "volume": "",
+      "last_updated": "1767656044",
+      "groups": {
+        "": "https://mangadex.org/chapter/0c364e5e-c4da-447a-a412-056d49ee7a2c/1"
+      }
+    }
+  }
+}
