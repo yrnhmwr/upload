@@ -1,0 +1,97 @@
+{
+  "title": "플랜터스의 정원 (The Garden of Plantus)",
+  "description": "\"I like you!\"\nBeyond the world we live in lies a place called the Garden, inhabited by otherworldly divine beings known as Plantus.\nAn ordinary human named Lee Lumi happens to encounter Aleph, an incomplete Plantus who has arrived in this world.\nHaving read \"The Little Prince,\" Aleph claims she came in search of \"a one-of-a-kind friend.\" Reluctantly, Lumi agrees to be her friend.\nBut soon after, a figure who looks exactly like Aleph appears, calling Lumi a \"gardener\" and acting as though they've known each other for a long time.\nMeanwhile, a suspicious professor seems to know far too much about Aleph and the Plantus.\nAs Lumi digs deeper, she begins to notice eerie similarities between the Plantus and the stories on SPR Institute, a paranormal website supposedly dedicated to protecting humanity.",
+  "artist": "김현식",
+  "author": "김현식",
+  "cover": "https://i.imgur.com/0S99mjp.jpeg",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1767655763",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1767655780",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1767655790",
+      "groups": {
+        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1767655803",
+      "groups": {
+        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1767655814",
+      "groups": {
+        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+      }
+    },
+    "6": {
+      "title": "6",
+      "volume": "1",
+      "last_updated": "1767655821",
+      "groups": {
+        "": "https://mangadex.org/chapter/843f78e0-5e3a-419e-b111-ce0f446e40a1/1"
+      }
+    },
+    "7": {
+      "title": "7",
+      "volume": "1",
+      "last_updated": "1767655838",
+      "groups": {
+        "": "https://mangadex.org/chapter/7097f562-ef31-4924-8292-e04b31c03263/1"
+      }
+    },
+    "8": {
+      "title": "8",
+      "volume": "1",
+      "last_updated": "1767655848",
+      "groups": {
+        "": "mangadex.org/chapter/7097f562-ef31-4924-8292-e04b31c03263/1"
+      }
+    },
+    "9": {
+      "title": "9",
+      "volume": "1",
+      "last_updated": "1767655854",
+      "groups": {
+        "": "https://mangadex.org/chapter/b73e16c1-276d-415a-b105-b549b2c0c40e/1"
+      }
+    },
+    "10": {
+      "title": "10",
+      "volume": "1",
+      "last_updated": "1767655867",
+      "groups": {
+        "": "https://mangadex.org/chapter/9d683421-9de5-44a2-93c1-931c4444161e/1"
+      }
+    },
+    "11": {
+      "title": "11",
+      "volume": "1",
+      "last_updated": "1767655877",
+      "groups": {
+        "": "https://mangadex.org/chapter/0ec97114-6329-49cc-8eb0-ae307cd115de/1"
+      }
+    }
+  }
+}
