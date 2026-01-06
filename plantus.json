@@ -26,7 +26,7 @@
       "volume": "1",
       "last_updated": "1767655790",
       "groups": {
-        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+        "": "/proxy/api/mangadex/chapter/d54100b4-a7ed-4ed7-826a-93523739bb6c"
       }
     },
     "4": {
@@ -34,7 +34,7 @@
       "volume": "1",
       "last_updated": "1767655803",
       "groups": {
-        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+        "": "/proxy/api/mangadex/chapter/db6e658d-c133-4f29-8dc2-3dd12b41b33b"
       }
     },
     "5": {
@@ -42,7 +42,7 @@
       "volume": "1",
       "last_updated": "1767655814",
       "groups": {
-        "": "mangadex.org/chapter/3c21756b-78a2-4bb3-802e-59d319bc7355"
+        "": "/proxy/api/mangadex/chapter/77747ab3-4605-4ec5-8899-965a3ba5cedd"
       }
     },
     "6": {
@@ -50,7 +50,7 @@
       "volume": "1",
       "last_updated": "1767655821",
       "groups": {
-        "": "https://mangadex.org/chapter/843f78e0-5e3a-419e-b111-ce0f446e40a1/1"
+        "": "/proxy/api/mangadex/chapter/843f78e0-5e3a-419e-b111-ce0f446e40a1"
       }
     },
     "7": {
@@ -58,7 +58,7 @@
       "volume": "1",
       "last_updated": "1767655838",
       "groups": {
-        "": "https://mangadex.org/chapter/7097f562-ef31-4924-8292-e04b31c03263/1"
+        "": "/proxy/api/mangadex/chapter/7097f562-ef31-4924-8292-e04b31c03263"
       }
     },
     "8": {
@@ -66,7 +66,7 @@
       "volume": "1",
       "last_updated": "1767655848",
       "groups": {
-        "": "mangadex.org/chapter/7097f562-ef31-4924-8292-e04b31c03263/1"
+        "": "/proxy/api/mangadex/chapter/b0833ae3-18ff-4f84-bd14-235276120ef3"
       }
     },
     "9": {
@@ -74,7 +74,7 @@
       "volume": "1",
       "last_updated": "1767655854",
       "groups": {
-        "": "https://mangadex.org/chapter/b73e16c1-276d-415a-b105-b549b2c0c40e/1"
+        "": "/proxy/api/mangadex/chapter/b73e16c1-276d-415a-b105-b549b2c0c40e"
       }
     },
     "10": {
@@ -82,7 +82,7 @@
       "volume": "1",
       "last_updated": "1767655867",
       "groups": {
-        "": "https://mangadex.org/chapter/9d683421-9de5-44a2-93c1-931c4444161e/1"
+        "": "/proxy/api/mangadex/chapter/9d683421-9de5-44a2-93c1-931c4444161e"
       }
     },
     "11": {
@@ -90,7 +90,7 @@
       "volume": "1",
       "last_updated": "1767655877",
       "groups": {
-        "": "https://mangadex.org/chapter/0ec97114-6329-49cc-8eb0-ae307cd115de/1"
+        "": "/proxy/api/mangadex/chapter/0ec97114-6329-49cc-8eb0-ae307cd115de"
       }
     }
   }
