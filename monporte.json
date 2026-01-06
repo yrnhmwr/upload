@@ -33,7 +33,23 @@
       "volume": "",
       "last_updated": "1767655503",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/7499cf5c-fbf2-4e65-9355-4bc4ba8922b1"
+        "": [
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/01.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/02.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/03.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/04.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/05.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/06.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/07.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/08.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/09.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/10.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/11.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/12.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/13.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/14.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%202%20png/15.png"
+        ]
       }
     },
     "3": {
@@ -41,15 +57,23 @@
       "volume": "",
       "last_updated": "1767655514",
       "groups": {
-        "": "/proxy/api/mangadex/chapter/cdf9f752-14cf-43f3-8f6c-e7d0ed6c7a37"
-      }
-    },
-    "3.1": {
-      "title": "Afterword",
-      "volume": "",
-      "last_updated": "1767655527",
-      "groups": {
-        "": "mangadex.org/chapter/cdf9f752-14cf-43f3-8f6c-e7d0ed6c7a37"
+        "": [
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/01.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/02.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/03.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/04.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/05.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/06.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/07.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/08.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/09.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/10.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/11.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/12.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/13.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/14.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%203%20png/15.png"
+        ]
       }
     }
   }
