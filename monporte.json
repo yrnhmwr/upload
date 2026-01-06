@@ -10,7 +10,22 @@
       "volume": "",
       "last_updated": "1767655448",
       "groups": {
-        "": "/proxy/api/imgur/chapter/monporte-1-BhG7w2X"
+        "": [
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/01.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/02.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/03.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/04.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/05.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/06.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/07.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/08.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/09.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/10.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/11.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/12.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/13.png",
+          "https://pub-63ce264b70d84dc4a51873cbe5891a2f.r2.dev/monporte%201%20png/14.png"
+        ]
       }
     },
     "2": {
